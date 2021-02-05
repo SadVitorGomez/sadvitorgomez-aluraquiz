@@ -1,12 +1,15 @@
 import React, { useState, useEffect } from 'react';
 
 import QuizContainer from '../../components/QuizContainer';
-// import db from '../../../db.json';
 import Widget from '../../components/Widget';
 import QuizBackground from '../../components/QuizBackground';
 import Button from '../../components/Button';
 import AlternativeForm from '../../components/AlternativeForm';
 import BackLinkArrow from '../../components/BackLinkArrow';
+import Correct from '../../components/Correct';
+import Wrong from '../../components/Wrong';
+
+import db from '../../../db.json';
 
 function ResultWidget({ results }) {
   return (
@@ -109,8 +112,8 @@ function QuestionWidget({
           <Button type="submit" disabled={!hasAlternativeSelected}>
             Confirmar
           </Button>
-          {isQuestionSubmitted && isCorrect && <p>Você Acertou!</p>}
-          {isQuestionSubmitted && !isCorrect && <p>Você Errou!</p>}
+          {isQuestionSubmitted && isCorrect && <Correct />}
+          {isQuestionSubmitted && !isCorrect && <Wrong />}
         </AlternativeForm>
       </Widget.Content>
     </Widget>
