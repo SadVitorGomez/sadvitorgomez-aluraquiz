@@ -99,7 +99,7 @@ export default function Home() {
           animate="show"
         />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/sadvitorgomez" />
+      <GitHubCorner projectUrl="https://github.com/SadVitorGomez/sadvitorgomez-aluraquiz.git" />
     </QuizBackground>
   );
 }
