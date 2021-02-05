@@ -1,0 +1,134 @@
+{
+  "bg": "https://images.alphacoders.com/988/thumb-1920-988021.jpg",
+  "title": "Cyberpunk 2077",
+  "description": "Teste os seus conhecimentos sobre Cyberpunk 2077 (Spoiler free, as perguntas são apenas do prólogo do jogo)",
+  "questions": [
+    {
+      "image": "https://media3.giphy.com/media/fYwyv39z1IAxTANALm/giphy.gif",
+      "title": "Qual é o nome do protagonista masculino do game?",
+      "description": "Essa é fácil...",
+      "answer": 3,
+      "alternatives": ["Viniccius", "Valentin", "Viktor", "Vincent"]
+    },
+    {
+      "image": "https://giffiles.alphacoders.com/209/209926.gif",
+      "title": "E da protagonista feminina?",
+      "description": "Não podemos esquecer que existem dois protagonistas possíveis no game",
+      "answer": 0,
+      "alternatives": [
+        "Valerie",
+        "Valentina",
+        "Valéria",
+        "Nenhuma das opções acima"
+      ]
+    },
+    {
+      "image": "https://66.media.tumblr.com/05904cb7878a06b9e24260ab029455b6/tumblr_prvhi8uDYj1ut1d6co1_540.gif",
+      "title": "Quantos e quais caminhos de vida são possíveis em Cyberpunk 2077?",
+      "description": "Tenha muito cuidado com as escolhas que você faz no jogo",
+      "answer": 2,
+      "alternatives": [
+        "2 - Garoto de Rua / Terrorista",
+        "1 - Você só pode ser um nômade",
+        "3 - Nômade / Garoto de rua / Corporativo",
+        "4 - Nômade / Garoto de rua / Corporativo / Astro do Rock"
+      ]
+    },
+    {
+      "image": "https://thumbs.gfycat.com/AggressiveMeatyGreatdane-size_restricted.gif",
+      "title": "Qual é o nome do terrorista que fica na cabeça de V?",
+      "description": "Ele está te matando a cada segundo...",
+      "answer": 2,
+      "alternatives": [
+        "Keanu Reeves",
+        "John Wick",
+        "Johnny Silverhand",
+        "River Ward"
+      ]
+    },
+    {
+      "image": "https://media1.giphy.com/media/QYerjVC4vG6WCzyeWg/source.gif",
+      "title": "Logo no prólogo do jogo você encontra Jaquito Welles, ele foi um dos primeiros pontos de contato de V, bem como o parceiro do jogador durante várias missões. Qual foi a missão mais importante de vocês dois?",
+      "description": "Vamos sentir saudades...",
+      "answer": 1,
+      "alternatives": [
+        "Entregar uma mercadoria de origem duvidosa ao topo do Kompeki Plaza",
+        "Os dois se infiltram no Konpeki Plaza para roubar um biochip experimental de Yorinobu Arasaka.",
+        "T-Bug os contratada para encontrar e recuperar uma pessoa desaparecida, Sandra Dorsett, cujo implante localizador apagou.",
+        "Vocês são contratados para encontrar e recuperar um drone experimental de nível militar"
+      ]
+    },
+    {
+      "image": "https://media0.giphy.com/media/TF7224FCEbwxR50bwF/source.gif",
+      "title": "O que acontece no quarto de Motel onde Dexter DeShawn está esperando V?",
+      "description": "Um novo começo...",
+      "answer": 1,
+      "alternatives": [
+        "V entrega o biochip para Dex e volta com a grana pra casa.",
+        "Dex não fica contente de oque aconteceu no Kompeki Plaza, seu guarda-costas o derruba antes que Dex atire em sua cabeça.",
+        "V entrega o biochip falso para Dex, o mesmo não percebe e o mercenário volta com a grana pra casa.",
+        "V e Jackie entram no motel e executam Dex por ter exposto os dois em uma situação extrema."
+      ]
+    },
+    {
+      "image": "https://i.imgur.com/oVDONSZ.gif",
+      "title": "Quantos romances principais são possíveis no jogo?",
+      "description": "( ͡° ͜ʖ ͡°)",
+      "answer": 0,
+      "alternatives": [
+        "4 - 2 apenas se você for homem e 2 se você for mulher",
+        "2 - 1 apenas se você for homem e 1 se você for mulher",
+        "4 - 1 apenas se você for homem e 3 se você for mulher",
+        "7 - 4 apenas se você for homem e 3 se você for mulher"
+      ]
+    },
+    {
+      "image": "https://media3.giphy.com/media/Y4o3xpXFVj3Fh21ajN/source.gif",
+      "title": "Quantas vezes o jogo foi adiado?",
+      "description": "EU NÃO AGUENTO MAIS ESPERAR!!",
+      "answer": 1,
+      "alternatives": [
+        "1 vez só",
+        "3 vezes",
+        "4 fucking vezes",
+        "Perdi as contas"
+      ]
+    },
+    {
+      "image": "https://giffiles.alphacoders.com/210/210015.gif",
+      "title": "Quantos distritos há em NightCity",
+      "description": "Esse mapa é muito grande!",
+      "answer": 3,
+      "alternatives": [
+        "1 único e grande distrito",
+        "3 distritos bem grandes porém com pouca variedade visual",
+        "10 distritos bem pequenos porém muito densos",
+        "6 grandes distritos, cada um com uma personalidade diferente"
+      ]
+    },
+    {
+      "image": "https://media1.giphy.com/media/QaZCCWGi3adi4KzApF/source.gif",
+      "title": "Quando Cyberpunk 2077 foi anunciado?",
+      "description": "Para finalizar...",
+      "answer": 0,
+      "alternatives": [
+        "Em 2012, com primeiras imagens divulgadas em janeiro de 2013.",
+        "Na E3 de 2019",
+        "Em 2015 com um teaser de jogabilidade",
+        "Em 2019 com uma gameplay de 48 minutos"
+      ]
+    }
+  ],
+  "external": ["https://aluraquiz.olliveer.vercel.app/"],
+  "theme": {
+    "colors": {
+      "primary": "#ff2a6d",
+      "secondary": "#005678",
+      "mainBg": "#01012b",
+      "contrastText": "#05d9e8",
+      "wrong": "#b2102f",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "8px"
+  }
+}
