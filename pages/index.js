@@ -21,7 +21,7 @@ export default function Home() {
       <QuizContainer>
         <Widget
           as={motion.section}
-          transition={{ delay: 0.2, duration: 0.8 }}
+          transition={{ delay: 0.2, duration: 0.5 }}
           variants={{
             show: { scale: 1 },
             hidden: { scale: 0 },
