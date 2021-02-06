@@ -10,6 +10,7 @@ import Correct from '../../components/Correct';
 import Wrong from '../../components/Wrong';
 
 import db from '../../../db.json';
+import LoadingWidget from '../../components/Loading';
 
 function ResultWidget({ results }) {
   return (
@@ -30,16 +31,6 @@ function ResultWidget({ results }) {
           ))}
         </ul>
       </Widget.Content>
-    </Widget>
-  );
-}
-
-function LoadingWidget() {
-  return (
-    <Widget>
-      <Widget.Header>Carregando...</Widget.Header>
-
-      <Widget.Content>[Desafio do Loading]</Widget.Content>
     </Widget>
   );
 }
